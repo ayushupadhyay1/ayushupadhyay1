@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Analytics 📈 & Data Visualization 📊**
 
-- 🌱 I’m currently learning **SQL, Pandas, AWS, GCP, etc**
+- 🌱 I've a keen interest in SQL, Python, Cloud Platforms, and many others...
 
 - 👨‍💻 Portfolio Link [https://ayushupadhyay1.github.io/](https://ayushupadhyay1.github.io/)
 
