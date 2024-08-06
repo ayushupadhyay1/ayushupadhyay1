@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Upadhyay</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushupadhyay1&label=Profile%20views&color=0e75b6&style=flat" alt="ayushupadhyay1" /> </p>
 
+![Ayush](https://github.com/user-attachments/assets/40b5908c-b8f3-4511-ad6b-7ce73ab878d2)
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
