@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Upadhyay</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushupadhyay1&label=Profile%20views&color=0e75b6&style=flat" alt="ayushupadhyay1" /> </p>
 
+![Ayush_background](https://github.com/user-attachments/assets/d09f88cc-74c1-4dee-bcfe-55dddaac2597)
 
 
 
