@@ -12,8 +12,6 @@
 
 - 🌱 I've a keen interest in SQL, Python, Cloud Platforms, and many others...
 
-- 👨‍💻 Portfolio Link [https://ayushupadhyay1.github.io/](https://ayushupadhyay1.github.io/)
-
 - 📫 How to reach me **ayushmu6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
